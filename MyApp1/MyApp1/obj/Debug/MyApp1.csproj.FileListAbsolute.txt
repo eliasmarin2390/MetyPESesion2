@@ -1,0 +1,10 @@
+C:\Users\elias\OneDrive\Documentos\C# Class\MyApp1\MyApp1\bin\Debug\MyApp1.exe.config
+C:\Users\elias\OneDrive\Documentos\C# Class\MyApp1\MyApp1\bin\Debug\MyApp1.exe
+C:\Users\elias\OneDrive\Documentos\C# Class\MyApp1\MyApp1\bin\Debug\MyApp1.pdb
+C:\Users\elias\OneDrive\Documentos\C# Class\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.AssemblyReference.cache
+C:\Users\elias\OneDrive\Documentos\C# Class\MyApp1\MyApp1\obj\Debug\MyApp1.Properties.Resources.resources
+C:\Users\elias\OneDrive\Documentos\C# Class\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.GenerateResource.cache
+C:\Users\elias\OneDrive\Documentos\C# Class\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Documentos\C# Class\MyApp1\MyApp1\obj\Debug\MyApp1.exe
+C:\Users\elias\OneDrive\Documentos\C# Class\MyApp1\MyApp1\obj\Debug\MyApp1.pdb
+C:\Users\elias\OneDrive\Documentos\C# Class\MyApp1\MyApp1\obj\Debug\MyApp1.FrmPrincipal1.resources
